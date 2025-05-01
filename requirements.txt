@@ -1,0 +1,4 @@
+kubernetes==29.0.0
+pandas==2.1.0
+concurrent-futures-extra==1.0.9
+argparse==1.4.0
